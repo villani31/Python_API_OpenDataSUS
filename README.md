@@ -1,4 +1,4 @@
-# OpenDataSUS - Campanha nacional de vacinação contra Covid-19
+## OpenDataSUS - Campanha nacional de vacinação contra Covid-19
 
 Desafio carregar dados via API pública, sobre vacinação contra Covid-19, com o objetivo em fazer ingestão e carga de dados:
 
@@ -18,3 +18,8 @@ Desenvolvido aplicação em Python para fazer o processo de ingestão de dados:
 - Criado banco de dados Mysql Server na Cloud da AWS.
   - A partir do dataframe criado, realizado a carga de dados no banco de dados.
  - Usando o mesmo dataframe, usada para gerar o arquivo parquet.
+ - Usando DynamoDB (NoSql), criado tabela para importar dados json.
+
+[APP em Python](https://github.com/villani31/Python_API_OpenDataSUS/tree/main/app)
+[Arquivo parquet](https://github.com/villani31/Python_API_OpenDataSUS/tree/main/parquet)
+[Imagens](https://github.com/villani31/Python_API_OpenDataSUS/tree/main/imagens)
