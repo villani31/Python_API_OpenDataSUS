@@ -21,5 +21,7 @@ Desenvolvido aplicação em Python para fazer o processo de ingestão de dados:
  - Usando DynamoDB (NoSql), criado tabela para importar dados json.
 
 [APP em Python](https://github.com/villani31/Python_API_OpenDataSUS/tree/main/app)
+
 [Arquivo parquet](https://github.com/villani31/Python_API_OpenDataSUS/tree/main/parquet)
+
 [Imagens](https://github.com/villani31/Python_API_OpenDataSUS/tree/main/imagens)
