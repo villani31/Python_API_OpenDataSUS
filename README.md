@@ -25,3 +25,16 @@ Desenvolvido aplicação em Python para fazer o processo de ingestão de dados:
 [Arquivo parquet](https://github.com/villani31/Python_API_OpenDataSUS/tree/main/parquet).
 
 [Imagens](https://github.com/villani31/Python_API_OpenDataSUS/tree/main/imagens).
+
+-----------------------------------------
+<p align="center">
+  <img src="https://github.com/villani31/Python_API_OpenDataSUS/blob/main/imagens/mysql01.png?w=740" alt="Amazon_EMR"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Python_API_OpenDataSUS/blob/main/imagens/mysql02.png?w=740" alt="Amazon_EMR"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Python_API_OpenDataSUS/blob/main/imagens/table.png?w=740" alt="Amazon_EMR"height=400px >
+</p>
